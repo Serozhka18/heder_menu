@@ -10,7 +10,7 @@ module.exports = {
     context: path.resolve(__dirname, 'src'),
 
     // entry file names to compile
-    entry: {
+    entry: {  
         app: [
             './js/app.js',
             './scss/theme.scss'
