@@ -92,7 +92,6 @@
 
 .menu {
   background: white;
-  position: relative;
 }
 
 .menu .items {
@@ -111,6 +110,7 @@
   position: absolute;
   top: 100%;
   width: 100%;
+  left: 0;
   background: white;
   border: 1px solid #141413;
   padding: 30px;
