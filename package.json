@@ -23,7 +23,7 @@
     "imagemin": "^5.3.1",
     "imagemin-gifsicle": "^5.2.0",
     "imagemin-mozjpeg": "^7.0.0",
-    "imagemin-pngquant": "^6.0.0git add README.md",
+    "imagemin-pngquant": "^6.0.0",
     "imagemin-svgo": "^6.0.0",
     "imagemin-webpack-plugin": "^2.3.0",
     "img-loader": "^3.0.0",
@@ -40,6 +40,6 @@
     "bootstrap": "^4.1.1",
     "jquery": "^3.3.1",
     "path": "0.12.7",
-    "popper.js": "^1.14.3",
+    "popper.js": "^1.14.3"
   }
 }
